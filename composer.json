@@ -51,7 +51,12 @@
 	{
             "type": "git",
             "url": "git@gitlab.com:staufenbiel/data.git"
+        },
+        {
+            "type": "git",
+            "url": "git@gitlab.com:staufenbiel/webscraper.git"
         }
+
     ]
 
 }

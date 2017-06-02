@@ -9,7 +9,7 @@ composer create-project staufenbiel/laravel [DEIN PROJEKTNAME]
 
 ## Dokumentation
 
-Comming Soon...
+Kommt bald...
 
 ## Lizenz
 

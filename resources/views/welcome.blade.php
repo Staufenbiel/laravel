@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel 5</div>
+                <div class="title"><img src="https://www.staufenbiel.de/fileadmin/templates/bilder/logo_staufenbiel_330x50.png" width="250" /></div>
             </div>
         </div>
     </body>

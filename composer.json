@@ -45,6 +45,8 @@
     "config": {
         "preferred-install": "dist"
     },
-    "repositories": [ { "type": "composer", "url": "https://sslsites.de/waldorfweb.net/satis/" }
+    "repositories": [ 
+        { "type": "composer", "url": "https://sslsites.de/waldorfweb.net/satis/" }
+    ]
 
 }

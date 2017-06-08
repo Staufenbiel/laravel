@@ -46,7 +46,7 @@
         "preferred-install": "dist"
     },
     "repositories": [ 
-        { "type": "composer", "url": "https://sslsites.de/waldorfweb.net/satis/" }
+        { "type": "composer", "url": "https://www.nadine-stalpes.de/repo/" }
     ]
 
 }

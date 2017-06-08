@@ -46,7 +46,7 @@
         "preferred-install": "dist"
     },
     "repositories": [ 
-        { "type": "composer", "url": "https://www.nadine-stalpes.de/repo/" }
+        { "type": "composer", "url": "https://www.staufenbiel.de/html/composer-repository/" }
     ]
 
 }
